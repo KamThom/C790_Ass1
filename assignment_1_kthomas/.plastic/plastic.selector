@@ -1,0 +1,4 @@
+repository "assignment_1_kthomas@Kamthoma@cloud"
+  path "/"
+    br "/main"
+    co "/main"
